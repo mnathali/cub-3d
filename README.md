@@ -1,5 +1,5 @@
 # cub3d
-Graphical project that uses raycastin to create grapics
+Graphical project that uses raycasting to create grapics
 
 ## Description
 
